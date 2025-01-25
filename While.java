@@ -5,6 +5,7 @@ class While{
         
         while (c < 10)
         {
+            System.out.println(" hiiiiiiii" );
             System.out.println(c);
             c++;
         }
